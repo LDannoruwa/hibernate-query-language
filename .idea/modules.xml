@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hibernate-jpa.iml" filepath="$PROJECT_DIR$/hibernate-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nativeHibernate/nh_bootstrapping/nh_bootstrapping.iml" filepath="$PROJECT_DIR$/nativeHibernate/nh_bootstrapping/nh_bootstrapping.iml" />
+    </modules>
+  </component>
+</project>
